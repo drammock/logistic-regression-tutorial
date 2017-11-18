@@ -1,0 +1,1 @@
+This is a tutorial for understanding logistic regression.  It uses the jupyter notebook format.  The folder `old-version` contains an old version written using R markdown instead of the notebook; the content is the same.
